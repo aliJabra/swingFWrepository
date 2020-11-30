@@ -7,12 +7,6 @@
             ]
         },
         {
-            "software": "v0.1.1",
-            "hardware": [
-                "v1.3",
-                "v1.2"
-            ]
-        }, {
             "software": "v0.1.2",
             "hardware": [
                 "v1.3",
